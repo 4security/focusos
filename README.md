@@ -18,7 +18,7 @@ FocusOS converts your Windows desktop and Android phone in a distraction free wo
 3. Click on the link "More Info" in the Windows notification
 4. Clock on the button "Run Anyway" on the dialog
 5. Inform about the features in the intro slide show of FocusOS
-6. Start all windows programs you need for the session and close all program you do not need
+6. Start windows programs you need for the session and close all program you do not need
 7. Choose all the web pages for the whitelist and block pages you do not need (e. g. Social media)
 8. Add telephone numbers for the whitelist
 9. Download FocusOS App for [Google Play](https://s.pgei.de/playocus)
