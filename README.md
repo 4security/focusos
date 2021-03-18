@@ -1,4 +1,4 @@
-# FocusOS - Blocker for distracting Web pages, Apps, Calls
+# FocusOS - Blocker for distracting Websites, Apps, Calls
 
 ![Logo FocusOS](https://lippke.li/wp-content/uploads/2020/10/FocusOSLogo-400x112.png "Logo Title Text 1")
 
