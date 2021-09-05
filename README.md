@@ -1,15 +1,21 @@
 # FocusOS - Blocker for distracting Websites, Apps, Calls
+FocusOS converts your Windows desktop and Android phone in a distraction free workplace
 
-![Logo FocusOS](https://lippke.li/wp-content/uploads/2020/10/FocusOSLogo-400x112.png "Logo Title Text 1")
+![Logo FocusOS](https://lippke.li/wp-content/uploads/2021/09/2021-09-04-Mockup-with-FocusOS2.png "Logo Title Text 1")
 
-FocusOS converts your Windows desktop and Android phone in a distraction free workplace by ...
 
-- blocks distracting your web pages
-- shuts down programs which distracts you
+- blocks your distracting web pages
+- shuts down distracting programs
 - blocks all phone numbers beside your whitelist
 - provides the UNBREAKABLE Focus Mode to finish your project
 
+Get more details at: [https://lippke.li/focusos-download-english/](https://lippke.li/focusos-download-english/)
+
 ![Screenshot FocusOS](https://fapi.lippke.li/img/MainFocusOS.png "Logo Title Text 1")
+## Screenshots
+![Screenshot FocusOS](block.png "Logo Title Text 1")
+![Screenshot FocusOS](intro.png "Logo Title Text 1")
+![Screenshot FocusOS](auto.png "Logo Title Text 1")
 
 ## Step by Step Tutorial
 
@@ -25,4 +31,4 @@ FocusOS converts your Windows desktop and Android phone in a distraction free wo
 10. Type in the activation code in the phone
 11. Start the session on your desktop app + phone app
 
-More at [http://lippke.li/focus-os](http://lippke.li/focusos)
+Image Source: <a href="https://www.freepik.com/psd/background">Background psd created by rawpixel.com – www.freepik.com</a>
