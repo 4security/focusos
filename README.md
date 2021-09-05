@@ -2,8 +2,6 @@
 FocusOS converts your Windows desktop and Android phone in a distraction free workplace
 
 ![Logo FocusOS](https://lippke.li/wp-content/uploads/2021/09/2021-09-04-Mockup-with-FocusOS2.png "Logo Title Text 1")
-
-
 - blocks your distracting web pages
 - shuts down distracting programs
 - blocks all phone numbers beside your whitelist
@@ -13,9 +11,12 @@ Get more details at: [https://lippke.li/focusos-download-english/](https://lippk
 
 ![Screenshot FocusOS](https://fapi.lippke.li/img/MainFocusOS.png "Logo Title Text 1")
 ## Screenshots
-![Screenshot FocusOS](block.png "Logo Title Text 1")
-![Screenshot FocusOS](intro.png "Logo Title Text 1")
-![Screenshot FocusOS](auto.png "Logo Title Text 1")
+### Block software, web pages, calls
+![Block](block.png "Block")
+## Step by Step introduction
+![Step by Step](intro.png "Step by Step")
+## Autostart for focused work
+![Autostart](auto.png "Autostart")
 
 ## Step by Step Tutorial
 
