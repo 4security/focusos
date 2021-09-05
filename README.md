@@ -1,5 +1,5 @@
 # FocusOS - Blocker for distracting Websites, Apps, Calls
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/liquididea/focusos/releases/)
  [![Website lippke.li](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lippke.li/) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 
 
