@@ -21,7 +21,7 @@ Get more details at: [https://lippke.li/focusos-download-english/](https://lippk
 ## Compatible with
 
 - [Download Windows](https://s.pgei.de/focusosnewdownload) - full integration
-- [Ubuntu / Debian](https://s.pgei.de/focusosnewdownloaddeb) - packed in deb file
+- [Downlaod Ubuntu / Debian](https://s.pgei.de/focusosnewdownloaddeb) - packed in deb file
 - [Download other Linux](https://s.pgei.de/focusosnewdownloadjar) - run via jar (java -jar focuso.jar)
 - [Download Android](https://s.pgei.de/playocus) - Connect your app to the desktop version 
 
