@@ -1,16 +1,29 @@
-# FocusOS - Blocker for distracting Websites, Apps, Calls
+<h1 align="center"><img src="https://lippke.li/wp-content/uploads/2021/09/2021-09-04-Mockup-with-FocusOS2.png" alt="drawing" style="margin:auto;"/></h1>
+
+# FocusOS Blocker for distracting Websites, Apps, Calls
  [![Website lippke.li](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lippke.li/) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
-
-
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+<table>
+<tr>
+<td>
 FocusOS converts your Windows desktop and Android phone in a distraction free workplace
+</td>
+</tr>
+</table>
 
-![Logo FocusOS](https://lippke.li/wp-content/uploads/2021/09/2021-09-04-Mockup-with-FocusOS2.png "Logo Title Text 1")
 - blocks your distracting web pages
 - shuts down distracting programs
 - blocks all phone numbers beside your whitelist
 - provides the UNBREAKABLE Focus Mode to finish your project
 
 Get more details at: [https://lippke.li/focusos-download-english/](https://lippke.li/focusos-download-english/)
+
+## Compatible with
+
+- [Download Windows](https://s.pgei.de/focusosnewdownload) - full integration
+- [Ubuntu / Debian](https://s.pgei.de/focusosnewdownloaddeb) - packed in deb file
+- [Download other Linux](https://s.pgei.de/focusosnewdownloadjar) - run via jar (java -jar focuso.jar)
+- [Download Android](https://s.pgei.de/playocus) - Connect your app to the desktop version 
 
 ![Screenshot FocusOS](https://fapi.lippke.li/img/MainFocusOS.png "Logo Title Text 1")
 ## Screenshots
